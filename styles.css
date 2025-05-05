@@ -1,0 +1,43 @@
+body {
+  background-color: rgba(197, 226, 189, 1);
+}
+
+button {
+  color: #00433a;
+  font-family: Karantina;
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  flex-grow: 1;
+  border: 0px;
+  border-radius: 60px;
+  background: #fff;
+}
+
+.nav {
+  display: flex;
+  flex-direction: row;
+  flex-direction: space-between;
+  gap: 20px;
+}
+
+h1 {
+  color: #fff;
+
+  font-family: Karantina;
+  font-size: 130px;
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 300px;
+}
+
+.header {
+  background-image: url(fond.png);
+  background-repeat: no-repeat;
+  background-size: 100vw;
+  width: 100vw;
+  height: 100vw;
+}
