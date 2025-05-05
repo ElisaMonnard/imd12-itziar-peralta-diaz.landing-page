@@ -25,15 +25,17 @@ button {
 }
 
 h1 {
-  color: #fff;
-
+  color: rgb(243, 184, 107);
+  display: flex;
+  justify-content: center;
   font-family: Karantina;
-  font-size: 130px;
+  font-style: italic;
+  font-size: 60px;
   font-display: swap;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  margin-top: 300px;
+  margin-top: 250px;
 }
 
 .header {
