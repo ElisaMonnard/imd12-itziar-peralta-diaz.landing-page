@@ -4,12 +4,14 @@ body {
 
 button {
   color: #00433a;
+
   font-family: Karantina;
-  font-size: 70px;
+  font-size: 40px;
+  margin: 40px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  flex-grow: 1;
+  flex-grow: 0.1;
   border: 0px;
   border-radius: 60px;
   background: #fff;
@@ -18,7 +20,7 @@ button {
 .nav {
   display: flex;
   flex-direction: row;
-  flex-direction: space-between;
+  justify-content: center;
   gap: 20px;
 }
 
